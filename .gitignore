@@ -1,6 +1,7 @@
 push-script.js
 /conf/*
 geist-fees.js
+valas-fees.js
 blizz-fees.js
 package.json
 package-lock.json
